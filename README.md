@@ -1,2 +1,2 @@
-# CSC240
-Final Proeject
+# CSC240 Data Mining 
+Homework and Final Project 
